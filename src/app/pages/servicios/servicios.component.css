@@ -1,0 +1,99 @@
+#nosotros {
+    background-color: rgb(223, 148, 8);
+    color: white;
+}
+
+#nosotros:hover {
+    box-shadow: 0 10px 14px 0 rgba(0, 0, 0, 0.24), 0 15px 30px 0 rgba(0, 0, 0, 0.16);
+    color: black;
+}
+
+#botonHerra:hover {
+    box-shadow: 0 10px 14px 0 rgba(0, 0, 0, 0.24), 0 15px 30px 0 rgba(0, 0, 0, 0.16);
+    color: black;
+}
+
+#card:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.16);
+}
+
+#cardBloque {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#img {
+    opacity: 0.7;
+}
+
+#title {
+    color: rgb(223, 148, 8);
+    margin-top: 150px;
+    font-weight: 900;
+}
+
+#texto {
+    color: rgb(223, 148, 8);
+    font-style: italic;
+}
+
+#card-text {
+    margin-top: 5px;
+}
+
+#sections {
+    margin-top: 10px;
+}
+
+#title2 {
+    color: rgb(223, 148, 8);
+    margin-top: 50px;
+    font-weight: 900;
+}
+
+#tarjetas {
+    margin-top: 30px;
+}
+
+#mercado {
+    margin-top: 20px;
+}
+
+#trophy {
+    color: blue;
+}
+
+#herra {
+    margin-bottom: 40px;
+    margin-left: 970px;
+}
+
+#imgTecno {
+    height: 400px;
+}
+
+#App {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#App h3 {
+    color: rgb(223, 148, 8);
+}
+
+#texto3:hover {
+    color: rgb(223, 148, 8);
+}
+
+#icons i:hover {
+    color: rgb(255, 174, 0);
+    cursor: pointer;
+}
+
+#icons i {
+    margin-left: 10px;
+}
+
+#footer {
+    margin-top: 20px;
+}
